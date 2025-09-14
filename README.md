@@ -28,7 +28,7 @@ Real_Estate/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/Real_Estate.git
+git clone https://github.com/anilx95/Real_Estate.git
 ```
 
 ### 2️⃣ Open the project
